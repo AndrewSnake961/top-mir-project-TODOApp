@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://platzi.github.io/curso-react-intro",
+  "homepage": "https://makeitreal.camp/",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
